@@ -24,7 +24,7 @@ function Home() {
 
       <header>
         <nav>
-          <Link href="/">next-web3-boilerplate</Link>
+          <Link href="/">home</Link>
 
           <Account triedToEagerConnect={triedToEagerConnect} />
         </nav>
@@ -33,9 +33,7 @@ function Home() {
       <main>
         <h1>
           Welcome to{" "}
-          <a href="https://github.com/mirshko/next-web3-boilerplate">
-            next-web3-boilerplate
-          </a>
+          <a href="https://github.com/mirshko/next-web3-boilerplate">PC69</a>
         </h1>
 
         {isConnected && (
